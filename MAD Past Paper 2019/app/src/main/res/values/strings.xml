@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android_Movie_Management_App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="adminpanel">Admin Panel</string>
+    <string name="listItem">List item</string>
+    <string name="movieyear">Movie Year</string>
+    <string name="add">Add</string>
+    <string name="commonimage">Common image</string>
+    <string name="movies">Movies</string>
+    <string name="rate">Rate</string>
+    <string name="comments">Comments</string>
+    <string name="submit">Submit</string>
+    <string name="currentrating">Current Rating</string>
+    <string name="changerate">changeRate</string>
+    <string name="AvarageRate">AvarageRate</string>
+    <string name="movieNameOverview">Movie Name</string>
+    <string name="moviename">Movie Name</string>
+    <!--<string name=""></string>-->
+
+</resources>

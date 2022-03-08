@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704894756919",
+    "firebase_url": "https://mad-tutorial6-it19180526.firebaseio.com",
+    "project_id": "mad-tutorial6-it19180526",
+    "storage_bucket": "mad-tutorial6-it19180526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704894756919:android:4837aab00e7bffa56e37b2",
+        "android_client_info": {
+          "package_name": "com.sliit.madtutorial6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704894756919-v1ivs8jer6u28afb5a6uv9vagaikbt5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtFlkXVqOiz8KU_3yKJggY6iIeBycsWf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704894756919-v1ivs8jer6u28afb5a6uv9vagaikbt5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

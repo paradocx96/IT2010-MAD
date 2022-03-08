@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MAD Tutorial6</string>
+    <string name="Firebase">Firebase</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="id">Enter your ID</string>
+    <string name="name">Enter your Name</string>
+    <string name="address">Enter your Address</string>
+    <string name="contact">Enter your Contact Number</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MAD Lab6</string>
+    <string name="readersName">Reader\'s Name</string>
+    <string name="name">Name</string>
+    <string name="ok">OK</string>
+    <string name="books">Books</string>
+    <string name="book">Book</string>
+    <string name="paper">Paper</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="view">View</string>
+    <string name="Text">Text</string>
+    <string name="paperArticle">Paper Article</string>
+    <string name="readersImage">ReadersImage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

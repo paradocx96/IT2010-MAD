@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD Tutorial7</string>
+    <string name="dob">Enter your Birthday Year</string>
+    <string name="submit">Submit</string>
+</resources>
